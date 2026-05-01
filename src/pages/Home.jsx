@@ -6,6 +6,7 @@ import Luxury from "../sections/Luxury";
 import Dining from "../sections/Dining";
 import Entertainment from "../sections/Entertainment";
 import Events from "../sections/Events";
+import Contact from "../sections/Contact";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Dining />
       <Entertainment />
       <Events />
+      <Contact />
     </div>
   );
 }

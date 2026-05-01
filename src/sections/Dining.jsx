@@ -9,11 +9,12 @@ export default function Dining() {
         alt="Dining area"
       />
 
-      <h2 className="text-4xl mb-4">Dining & Lifestyle</h2>
+      <h2 className="text-4xl mb-4">Dining that extends dwell time</h2>
 
       <p className="max-w-2xl text-gray-300">
-        A curated mix of fine dining, cafes, and lifestyle experiences that
-        attract diverse audiences.
+        A carefully curated mix of cafes, casual favorites, and destination
+        dining that keeps people on-property longer—and gives every tenant more
+        opportunities to win.
       </p>
     </SectionWrapper>
   );

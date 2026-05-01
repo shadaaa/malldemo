@@ -22,14 +22,15 @@ export default function Events() {
           alt="Events venue"
         />
 
-        <h2 className="text-4xl mb-4">Events Platform</h2>
+        <h2 className="text-4xl mb-4">Events that create demand</h2>
 
         <p className="max-w-2xl text-gray-300">
-          Host global concerts, brand activations, and exhibitions with massive
-          audience reach.
+          Product launches, brand activations, seasonal festivals, and headline
+          shows—Avenue Mall is a platform for experiences that build community
+          and drive measurable traffic.
         </p>
 
-        <CTAButton text="Book Event" />
+        <CTAButton text="Book an event date" href="#contact" />
       </SectionWrapper>
     </section>
   );

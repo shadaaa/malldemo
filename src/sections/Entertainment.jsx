@@ -1,4 +1,5 @@
 import SectionWrapper from "../components/SectionWrapper";
+import CTAButton from "../components/CTAButton";
 
 export default function Entertainment() {
   return (
@@ -14,12 +15,14 @@ export default function Entertainment() {
       </div>
 
       <SectionWrapper>
-        <h2 className="text-4xl mb-4">Entertainment</h2>
+        <h2 className="text-4xl mb-4">Footfall people plan for</h2>
 
         <p className="max-w-2xl text-gray-300">
-          Theme parks, cinemas, and immersive attractions that drive millions of
-          visitors.
+          Entertainment isn’t an add-on—it’s the engine. Avenue Mall is designed
+          to create moments that bring families, friends, and tourists back
+          again and again.
         </p>
+        <CTAButton text="Discuss sponsorship" href="#contact" />
       </SectionWrapper>
     </section>
   );

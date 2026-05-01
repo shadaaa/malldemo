@@ -9,11 +9,12 @@ export default function Luxury() {
         alt="Luxury section"
       />
 
-      <h2 className="text-4xl mb-4">Luxury Experience</h2>
+      <h2 className="text-4xl mb-4">Premium brands belong here</h2>
 
       <p className="max-w-2xl text-gray-300">
-        Premium retail zones curated for high-end global brands, delivering an
-        elevated customer experience.
+        A refined environment, elevated finishes, and a customer journey that
+        feels effortless. Avenue Mall is where premium brands create presence,
+        not just a store.
       </p>
     </SectionWrapper>
   );

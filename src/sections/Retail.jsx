@@ -11,14 +11,16 @@ export default function Retail() {
           alt="Retail environment"
         />
 
-        <h2 className="text-4xl mb-4">Retail Ecosystem</h2>
+        <h2 className="text-4xl mb-4">Leasing that performs</h2>
 
         <p className="max-w-2xl text-gray-300">
-          Home to flagship stores, global brands, and high-growth retail
-          opportunities in a high-traffic destination.
+          From flagship anchors to high-growth challengers, Avenue Mall is
+          curated to keep the entire tenant mix winning—through strong zoning,
+          premium visibility, and an experience-first layout that drives
+          conversion.
         </p>
 
-        <CTAButton text="Lease Space" />
+        <CTAButton text="Request leasing details" href="#contact" />
       </SectionWrapper>
     </section>
   );
